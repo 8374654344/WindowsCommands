@@ -1,0 +1,18 @@
+windows short cuts
+===================
+windows key + cntl + D for virtual desktop
+window key + cntl + left and right arrows for shifting between desktop
+winows key + contl + f4 to delete virtual desktop
+windows key + m for to minimise all apps once
+windows key + <, to show desktop wall paper
+windows key + 1 to 9 number assigned to taskbar apps from left to right
+windows and right and left arrows to share desktop for 2 apps and compare
+cont + alt + tab to see all opened apps 
+cntl + tab for broader way to see app opened apps
+alt + tab to quick switch between opened apps
+cntl + shift + esc to open taskbar
+windows + E to open file explorer
+windows key + + or - to open windows magnifiser
+windows key + Print Screen to get print screen
+windows key + A to see notifications
+windows key + i to open settings
